@@ -34,7 +34,7 @@ class Son extends Father {
     }
 }
 
-public class lab8 {
+public class lab7 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
