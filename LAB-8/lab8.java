@@ -1,4 +1,4 @@
-public class lab9 {
+public class lab8 {
     static class BMSThread extends Thread {
         
         public void run() {
